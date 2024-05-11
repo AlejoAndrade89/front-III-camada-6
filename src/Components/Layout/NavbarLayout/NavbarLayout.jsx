@@ -36,7 +36,7 @@ const NavbarLayout = () => {
 
         <Link to="/cart">
           <div className="container-cart">
-            <ShoppingCartIcon sx={{ fontSize: "40px" }} />
+            <ShoppingCartIcon sx={{ fontSize: "35px" }} />
 
             <div className="bubble-counter">
               <span>{state.totalQuantity}</span>

@@ -35,6 +35,12 @@
       "description": "Zapatillas de ultima generacion para el deporte",
       "category": "urbanas",
       "img": "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669430220/rtokwmt3j03bblbfhwhb.jpg"
+    },
+    {
+      "name": "Martillo Stilleto",
+      "price": 1500000,
+      "img": "https://m.media-amazon.com/images/I/61wtjJS7VyL._AC_SL1500_.jpg",
+      "id": 5
     }
   ]
 }
